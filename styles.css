@@ -27,7 +27,7 @@ h1 {
   }
 }
 h1:hover{
-  transform: translate(50px);
+  transform: translate(70px);
 }
 h1,h2, .skills-list{
   font-family: 'Inknut Antiqua', serif;
