@@ -7,6 +7,7 @@ body{
 h1 {
   animation-duration: 1.5s;
   animation-name: slidein;
+   transition: all 1s;
 }
 @keyframes slidein {
   from {
@@ -27,6 +28,7 @@ h1 {
 }
 h1:hover{
   text-decoration: underline;
+  transform: translate(50px);
 }
 h1,h2, .skills-list{
   font-family: 'Inknut Antiqua', serif;
