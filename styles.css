@@ -27,7 +27,6 @@ h1 {
   }
 }
 h1:hover{
-  text-decoration: underline;
   transform: translate(50px);
 }
 h1,h2, .skills-list{
